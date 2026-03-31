@@ -95,22 +95,22 @@ Four plots are produced:
 **Figure 1 — Clean vs Noisy Signal**
 Overlay of the ground truth staircase signal and the low-noise version. The k-mer plateau structure remains clearly visible at low noise.
 
-![Clean vs Noisy Signal](outputs/Clean_vs_Noisy.png)
+![Clean vs Noisy Signal](Clean_vs_Noisy.png)
 
 **Figure 2 — SNR vs Noise Level**
 Bar chart comparing global SNR across the three noise levels.
 
-![SNR vs Noise Level](outputs/SNR_vs_Noise.png)
+![SNR vs Noise Level](SNR_vs_Noise.png)
 
 **Figure 3 — Per K-mer SNR Heatmap**
 Each column represents one k-mer position along the DNA sequence. Color encodes SNR — green indicates high SNR (easily distinguishable), red indicates low SNR (difficult to distinguish from noise).
 
-![Per K-mer SNR Heatmap](outputs/SNR_kmers_low.png)
+![Per K-mer SNR Heatmap](SNR_kmers_low.png)
 
 **Figure 4 — SNR Degradation Curve**
 Parameter sweep across sigma values 1–20 pA, showing the smooth degradation of global SNR as noise increases.
 
-![SNR Degradation Curve](outputs/SNR_20Std.png)
+![SNR Degradation Curve](SNR_20Std.png)
 
 ### Section 5 — Parameter Sweep & Analysis
 
