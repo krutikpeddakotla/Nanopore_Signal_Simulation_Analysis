@@ -1,6 +1,6 @@
 Nanopore Signal Simulation & Noise Analysis
 
-A Python-based simulation of ionic current signals produced by a nanopore sequencer, with noise modeling and signal-to-noise ratio (SNR) analysis. Built as part of a preparation curriculum for a sequencing R&D internship focused on nanopore technology (ONT/Axelios SBX platform).
+A Python-based simulation of ionic current signals produced by a nanopore sequencer, with noise modeling and signal-to-noise ratio (SNR) analysis.
 
 ---
 
